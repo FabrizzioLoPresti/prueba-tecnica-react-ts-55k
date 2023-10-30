@@ -1,6 +1,6 @@
 # Project Information
 
-Github Repo: [Prueba Empresa 55k]()
+Github Repo: [Prueba Empresa 55k](https://github.com/FabrizzioLoPresti/prueba-tecnica-react-ts-55k)
 
 Youtube Video: [RESUELVO PRUEBA TÉCNICA de €55K AL AÑO en Europa | React + TypeScript](https://www.youtube.com/watch?v=mNJOWXc83Y4)
 
